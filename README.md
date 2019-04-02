@@ -1,2 +1,2 @@
 # Machine Learning A-Z Hands on in python
-Projects done in machine learning course on Udemy
+Hands-On projects done in machine learning course on Udemy in python
